@@ -62,6 +62,10 @@ El proyecto incluye secciones como una galería de productos, una sección de "S
 
 Si deseas contribuir a este proyecto, por favor realiza un fork del repositorio, crea una nueva rama con tus cambios, y realiza un pull request.
 
+## Link
+
+Podes acceder a la pagina desde este link: [Eco-store](https://blix-luxta.github.io/Eco-store/)
+
 ## Licencia
 
 Este proyecto está bajo la licencia MIT.
